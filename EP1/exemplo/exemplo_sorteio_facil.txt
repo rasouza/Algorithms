@@ -1,0 +1,68 @@
+(s)ortear ou (l)er turtledorm de arquivo: s
+Digite tamanho do turtledorm: 4
+Digite um inteiro (semente): 4
+Digite o nível de dificuldade [f/m/d]: f
+
+Número de tapinhas sorteado foi:  1
+Número de turtles despertos é:  4
+
+Turtledorm inicial
+
+     |   1   |   2   |   3   |   4   |
+-----+-------+-------+-------+-------+
+  1  |       |       |       |       |
+-----+-------+-------+-------+-------+
+  2  |   #   |       |       |       |
+-----+-------+-------+-------+-------+
+  3  |   #   |   #   |       |       |
+-----+-------+-------+-------+-------+
+  4  |   #   |       |       |       |
+-----+-------+-------+-------+-------+
+
+Uma jogada é definida por 2 números inteiros entre 1 e 4
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Digite 'd' para (d)esistir
+Digite 'a' para receber (a)juda para encontrar uma solução
+Ou digite a posição lin, col para dar um tapinha: 
+>>>  a
+Esses tapinhas resolvem o seu problema:
+
+     |   1   |   2   |   3   |   4   |
+-----+-------+-------+-------+-------+
+  1  |       |       |       |       |
+-----+-------+-------+-------+-------+
+  2  |       |       |       |       |
+-----+-------+-------+-------+-------+
+  3  |   T   |       |       |       |
+-----+-------+-------+-------+-------+
+  4  |       |       |       |       |
+-----+-------+-------+-------+-------+
+
+Número de jogadas na solução ótima = 1
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Digite 'd' para (d)esistir
+Digite 'a' para receber (a)juda para encontrar uma solução
+Ou digite a posição lin, col para dar um tapinha: 
+>>>  3 1
+Sua jogada 1 foi na posição (3, 1)
+
+Turtledorm após a jogada 1:
+
+     |   1   |   2   |   3   |   4   |
+-----+-------+-------+-------+-------+
+  1  |       |       |       |       |
+-----+-------+-------+-------+-------+
+  2  |       |       |       |       |
+-----+-------+-------+-------+-------+
+  3  |       |       |       |       |
+-----+-------+-------+-------+-------+
+  4  |       |       |       |       |
+-----+-------+-------+-------+-------+
+
+
+Parabéns, você conseguiu resolver após 1 jogadas!
+>>> 

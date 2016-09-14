@@ -1,0 +1,33 @@
+(s)ortear ou (l)er turtledorm de arquivo: l
+Digite o nome do arquivo: testes/b.txt
+
+Turtledorm inicial
+
+     |   1   |   2   |
+-----+-------+-------+
+  1  |       |   #   |
+-----+-------+-------+
+  2  |   #   |   #   |
+-----+-------+-------+
+
+Uma jogada é definida por 2 números inteiros entre 1 e 2
+
++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+Digite 'd' para (d)esistir
+Digite 'a' para receber (a)juda para encontrar uma solução
+Ou digite a posição lin, col para dar um tapinha: 
+>>>  2 2
+Sua jogada 1 foi na posição (2, 2)
+
+Turtledorm após a jogada 1:
+
+     |   1   |   2   |
+-----+-------+-------+
+  1  |       |       |
+-----+-------+-------+
+  2  |       |       |
+-----+-------+-------+
+
+
+Parabéns, você conseguiu resolver após 1 jogadas!

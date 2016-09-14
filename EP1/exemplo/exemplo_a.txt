@@ -1,0 +1,15 @@
+(s)ortear ou (l)er turtledorm de arquivo: l
+Digite o nome do arquivo: testes/a.txt
+
+Turtledorm inicial
+
+     |   1   |   2   |
+-----+-------+-------+
+  1  |       |       |
+-----+-------+-------+
+  2  |       |       |
+-----+-------+-------+
+
+Uma jogada é definida por 2 números inteiros entre 1 e 2
+
+Parabéns, você conseguiu resolver após 0 jogadas!
